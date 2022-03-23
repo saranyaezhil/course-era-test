@@ -1,0 +1,94 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    margin-bottom: 15px;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+p {
+    margin-top: 46px;
+    font-family: Arial;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.menu-item {
+    background-color: grey;
+    color: black;
+    position: relative;
+}
+
+.menu {
+    width: 100%;
+}
+
+.menu1 {
+    background-color: yellowgreen;
+}
+
+.menu2 {
+    background-color: palegoldenrod;
+}
+
+.menu3 {
+    background-color: darkcyan;
+}
+
+.menu-name {
+    width: 120px;
+    border: 1px solid black;
+    border-top: none;
+    border-right: none;
+    padding: 10px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    font-size: 20px;
+    text-align: center;
+    text-transform:capitalize;
+
+}
+
+@media (min-width: 992px) {
+
+    .col-lg-4 {
+        float: left;
+        border: 1px solid black;
+        margin: 1.5%;
+        width: 30.33%;
+    }
+
+
+}
+
+@media (max-width: 991px)and (min-width: 778px) {
+    .col-md-6, .col-md-12 {
+        float: left;
+        border: 1px solid black;
+    }
+
+    .col-md-6 {
+        width: 45%;
+        margin: 2.5%;
+    }
+
+    .col-md-12 {
+        width: 95%;
+        margin: 2.5%;
+    }
+}
+
+@media (max-width: 771px) {
+    .col-sm-6 {
+        float: left;
+        border: 1px solid black;
+        margin:5%;
+        width: 90%;
+    }
+
+}
