@@ -1,0 +1,60 @@
+
+#header-nav {
+    border-radius: 0;
+    border: 0;
+    background-color: #b2dba1;
+    margin-bottom: 0px;
+}
+
+.navbar-brand span {
+    font-size: 25px;
+}
+
+#navList {
+    background-color: #d6e9c6;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#navList li {
+    border: 1px solid gray;
+    border-bottom: none;
+}
+
+#navList li a {
+    color: grey;
+}
+
+#navList li a:hover {
+    color: white;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+    border: 1px solid red;
+}
+
+#main-content {
+    border-top: 1px solid black;
+}
+.menu-list
+{
+    border: 1px solid black;
+    background-color: #d6e9c6;
+    margin-left:4.15%;
+
+}
+#menu-category-titles
+{
+    font-size:18px ;
+    padding:10px;
+    font-size: x-large;
+    font-family: Arial Black;
+}
+.menu-name
+{
+    font-size: larger;
+    font-family: "Arial Black";
+    padding:8px;
+
+}
+
