@@ -1,0 +1,846 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d8371ad9-0483-4569-9c21-353f553c71be" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/css/bootstrap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/css/styles.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/fonts/glyphicons-halflings-regular.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/fonts/glyphicons-halflings-regular.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/fonts/glyphicons-halflings-regular.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/fonts/glyphicons-halflings-regular.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/fonts/glyphicons-halflings-regular.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/ajax-loader.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/jumbotron_1200.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/jumbotron_768.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/jumbotron_992.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu-tile.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/A/A.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/A/A1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/A/A10.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/A/A11.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/A/A2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/A/A3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/A/A4.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/A/A5.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/A/A6.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/A/A7.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/A/A8.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/A/A9.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/B/B.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/B/B1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/B/B10.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/B/B11.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/B/B12.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/B/B13.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/B/B14.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/B/B15.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/B/B16.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/B/B2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/B/B3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/B/B4.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/B/B5.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/B/B6.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/B/B7.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/B/B8.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/B/B9.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/C/C.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/C/C1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/C/C10.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/C/C11.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/C/C12.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/C/C13.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/C/C14.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/C/C15.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/C/C16.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/C/C17.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/C/C18.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/C/C19.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/C/C2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/C/C3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/C/C4.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/C/C5.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/C/C6.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/C/C7.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/C/C8.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/C/C9.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/CM/CM.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/CM/CM1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/CM/CM2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/CM/CM3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/CM/CM4.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/CM/CM5.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/CSR/CSR.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/CSR/CSR1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/CSR/CSR2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/CSR/CSR3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/CSR/CSR4.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/CU/CU.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/CU/CU21.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/CU/CU22.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/CU/CU23.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/D/D.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/D/D1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/D/D10.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/D/D11.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/D/D12.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/D/D13.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/D/D14.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/D/D15.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/D/D16.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/D/D17.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/D/D18.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/D/D2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/D/D3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/D/D4.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/D/D5.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/D/D6.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/D/D7.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/D/D8.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/D/D9.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/DK/DK.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/DK/DK1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/DK/DK2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/DK/DK3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/DS/DS.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/DS/DS1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/DS/DS2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/F/F.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/F/F1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/F/F10.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/F/F11.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/F/F12.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/F/F2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/F/F3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/F/F4.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/F/F5.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/F/F6.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/F/F7.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/F/F8.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/F/F9.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/FR/FR.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/FR/FR1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/FR/FR2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/FR/FR3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/FR/FR4.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/FR/FR5.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/FY/FY.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/FY/FY1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/FY/FY2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/FY/FY3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/FY/FY4.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/FY/FY5.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/L/L.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/L/L1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/L/L10.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/L/L11.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/L/L12.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/L/L13.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/L/L14.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/L/L15.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/L/L16.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/L/L17.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/L/L18.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/L/L19.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/L/L2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/L/L20.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/L/L21.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/L/L22.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/L/L23.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/L/L24.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/L/L26.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/L/L27.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/L/L28.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/L/L3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/L/L4.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/L/L5.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/L/L6.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/L/L7.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/L/L8.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/L/L9.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/NF/NF.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/NF/NF10.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/NF/NF11.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/NF/NF12.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/NF/NF13.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/NL/NL.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/NL/NL1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/NL/NL2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/NL/NL3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/NS/NS.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/NS/NS1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/NS/NS2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/NS/NS3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/NS/NS4.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/PF/PF.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/PF/PF1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/PF/PF2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/PF/PF3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/PF/PF4.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/PF/PF5.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SO/SO.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SO/SO1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SO/SO2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SO/SO3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SO/SO4.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SO/SO5.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SO/SO6.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SO/SO7.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SP/SP.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SP/SP1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SP/SP2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SP/SP3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SP/SP4.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SP/SP5.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SP/SP6.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SP/SP7.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SP/SP8.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SR/SR.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SR/SR1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SR/SR10.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SR/SR11.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SR/SR12.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SR/SR13.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SR/SR14.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SR/SR15.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SR/SR16.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SR/SR17.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SR/SR18.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SR/SR19.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SR/SR2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SR/SR20.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SR/SR21.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SR/SR22.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SR/SR23.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SR/SR24.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SR/SR25.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SR/SR26.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SR/SR27.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SR/SR28.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SR/SR29.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SR/SR3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SR/SR30.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SR/SR31.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SR/SR32.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SR/SR33.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SR/SR34.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SR/SR35.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SR/SR36.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SR/SR37.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SR/SR38.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SR/SR39.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SR/SR4.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SR/SR40.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SR/SR41.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SR/SR42.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SR/SR43.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SR/SR5.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SR/SR6.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SR/SR7.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SR/SR8.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SR/SR9.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SS/SS.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SS/SS1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SS/SS10.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SS/SS11.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SS/SS12.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SS/SS13.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SS/SS14.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SS/SS2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SS/SS3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SS/SS4.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SS/SS5.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SS/SS6.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SS/SS7.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SS/SS8.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/SS/SS9.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/T/T.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/T/T1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/T/T2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/T/T3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/T/T4.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/V/V.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/V/V1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/V/V2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/V/V3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/V/V4.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/V/V5.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/V/V6.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/V/V7.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/VG/VG.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/VG/VG1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/VG/VG10.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/VG/VG11.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/VG/VG12.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/VG/VG13.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/VG/VG14.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/VG/VG2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/VG/VG3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/VG/VG4.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/VG/VG5.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/VG/VG6.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/VG/VG7.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/VG/VG8.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/menu/VG/VG9.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/restaurant-logo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/restaurant-logo_large.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/restaurant-logo_medium.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/restaurant-logo_small.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/specials-tile.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/images/star-k-logo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/js/ajax-utils.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/js/bootstrap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/js/bootstrap.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/js/jquery-2.1.4.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/js/npm.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/js/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/snippets/categories-title-snippet.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/snippets/category-snippet.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/snippets/home-snippet.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/snippets/menu-item.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment5/snippets/menu-items-title.html" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assignment5/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1440">
+              <caret line="79" column="33" lean-forward="true" selection-start-line="79" selection-start-column="33" selection-end-line="79" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assignment5/js/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="92" column="28" lean-forward="true" selection-start-line="92" selection-start-column="28" selection-end-line="92" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home-snippet.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assignment5/snippets/home-snippet.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="9" column="48" lean-forward="false" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="menu-item.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assignment5/snippets/menu-item.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="categories-title-snippet.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assignment5/snippets/categories-title-snippet.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="category-snippet.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assignment5/snippets/category-snippet.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="1" column="54" lean-forward="false" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="54" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ajax-utils.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assignment5/js/ajax-utils.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="menu-items-title.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assignment5/snippets/menu-items-title.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>responseHandler</find>
+      <find>handleResponse</find>
+      <find>buildAndShowMenuItemsHTML</find>
+      <find>insertProperty</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\Raja\git\project1\css</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/project1/css/responsive.css" />
+        <option value="$PROJECT_DIR$/project1/index.html" />
+        <option value="$PROJECT_DIR$/project1/resaturent.css" />
+        <option value="$PROJECT_DIR$/project1/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/project1/css/resaturent.css" />
+        <option value="$PROJECT_DIR$/project1/restaurent.html" />
+        <option value="$PROJECT_DIR$/assignment4/harder/script.js" />
+        <option value="$PROJECT_DIR$/assignment4/harder/SpeakGoodBye.js" />
+        <option value="$PROJECT_DIR$/assignment4/harder/SpeakHello.js" />
+        <option value="$PROJECT_DIR$/assignment5/index.html" />
+        <option value="$PROJECT_DIR$/assignment5/js/ajax-utils.js" />
+        <option value="$PROJECT_DIR$/assignment5/js/script.js" />
+        <option value="$PROJECT_DIR$/assignment5/snippets/home-snippet.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="279" />
+    <option name="width" value="2494" />
+    <option name="height" value="1262" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="git" type="b2602c69:ProjectViewProjectNode" />
+              <item name="git" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="git" type="b2602c69:ProjectViewProjectNode" />
+              <item name="git" type="462c0819:PsiDirectoryNode" />
+              <item name="assignment5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="git" type="b2602c69:ProjectViewProjectNode" />
+              <item name="git" type="462c0819:PsiDirectoryNode" />
+              <item name="assignment5" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="git" type="b2602c69:ProjectViewProjectNode" />
+              <item name="git" type="462c0819:PsiDirectoryNode" />
+              <item name="assignment5" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="git" type="b2602c69:ProjectViewProjectNode" />
+              <item name="git" type="462c0819:PsiDirectoryNode" />
+              <item name="assignment5" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="git" type="b2602c69:ProjectViewProjectNode" />
+              <item name="git" type="462c0819:PsiDirectoryNode" />
+              <item name="assignment5" type="462c0819:PsiDirectoryNode" />
+              <item name="snippets" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Raja\git" />
+      <recent name="C:\Users\Raja\git\project1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Raja\git\project1\css" />
+      <recent name="C:\Users\Raja\git\project1" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8371ad9-0483-4569-9c21-353f553c71be" name="Default" comment="" />
+      <created>1648015637034</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648015637034</updated>
+      <workItem from="1648015638328" duration="99000" />
+      <workItem from="1648015756409" duration="2600000" />
+      <workItem from="1648522482738" duration="25669000" />
+      <workItem from="1649181193397" duration="2867000" />
+      <workItem from="1649802242086" duration="36000" />
+      <workItem from="1649802296409" duration="8496000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="39767000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-16" y="-16" width="3872" height="2092" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25343552" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295711" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295711" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295711" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295711" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/assignment4/harder/SpeakGoodBye.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment4/harder/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1920">
+          <caret line="58" column="39" lean-forward="false" selection-start-line="58" selection-start-column="39" selection-end-line="58" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment4/harder/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="13" column="23" lean-forward="false" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment4/harder/SpeakHello.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project1/restaurent.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project1/css/resaturent.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1240">
+          <caret line="31" column="63" lean-forward="true" selection-start-line="31" selection-start-column="63" selection-end-line="31" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project1/css/responsive.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project1/css/bootstrap-reboot.rtl.css" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-688">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project1/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="42" column="5" lean-forward="false" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="10" column="18" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project1/css/responsive.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="27" column="1" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="27" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project1/css/resaturent.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1240">
+          <caret line="31" column="63" lean-forward="false" selection-start-line="31" selection-start-column="63" selection-end-line="31" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project1/restaurent.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1579">
+          <caret line="163" column="30" lean-forward="false" selection-start-line="163" selection-start-column="30" selection-end-line="163" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment4/easier/script.js" />
+    <entry file="file://$PROJECT_DIR$/assignment4/harder/SpeakHello.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment4/harder/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1920">
+          <caret line="58" column="39" lean-forward="false" selection-start-line="58" selection-start-column="39" selection-end-line="58" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment4/harder/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="13" column="23" lean-forward="false" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment4/harder/SpeakGoodBye.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="920">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment5/js/npm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment5/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="995">
+          <caret line="291" column="0" lean-forward="true" selection-start-line="291" selection-start-column="0" selection-end-line="291" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment5/snippets/menu-items-title.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment5/images/jumbotron_768.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment5/images/ajax-loader.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment5/images/specials-tile.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment5/snippets/menu-item.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment5/js/ajax-utils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment5/snippets/categories-title-snippet.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment5/snippets/category-snippet.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="1" column="54" lean-forward="false" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment5/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="92" column="28" lean-forward="true" selection-start-line="92" selection-start-column="28" selection-end-line="92" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment5/snippets/home-snippet.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="9" column="48" lean-forward="false" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment5/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1440">
+          <caret line="79" column="33" lean-forward="true" selection-start-line="79" selection-start-column="33" selection-end-line="79" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
